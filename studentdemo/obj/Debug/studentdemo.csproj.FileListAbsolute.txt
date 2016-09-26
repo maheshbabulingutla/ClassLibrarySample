@@ -1,0 +1,6 @@
+c:\users\mahes\documents\visual studio 2015\Projects\studentdemo\studentdemo\bin\Debug\studentdemo.exe.config
+C:\Users\mahes\documents\visual studio 2015\Projects\studentdemo\studentdemo\bin\Debug\studentdemo.exe
+C:\Users\mahes\documents\visual studio 2015\Projects\studentdemo\studentdemo\bin\Debug\studentdemo.pdb
+C:\Users\mahes\documents\visual studio 2015\Projects\studentdemo\studentdemo\obj\Debug\studentdemo.exe
+C:\Users\mahes\documents\visual studio 2015\Projects\studentdemo\studentdemo\obj\Debug\studentdemo.pdb
+C:\Users\mahes\documents\visual studio 2015\Projects\studentdemo\studentdemo\obj\Debug\studentdemo.csprojResolveAssemblyReference.cache
